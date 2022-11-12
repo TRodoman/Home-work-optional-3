@@ -1,0 +1,73 @@
+@media screen and (max-width: 1440px) {
+  :root {
+    font-size: 8px;
+  }
+
+  .hero-img > img {
+    width: 576px;
+  }
+  .card {
+    height: 81.5vh;
+  }
+  .card > h2 {
+    margin-bottom: 4.7vh;
+  }
+  .card-box > li {
+    width: 414px;
+    height: 548px;
+  }
+
+  .card-box > li img:nth-child(1) {
+    width: 414px;
+    height: 468px;
+  }
+
+  /* -------------------------- */
+
+  .item2 > div > p:nth-child(1) {
+    margin-top: 9vh;
+  }
+  .item2 > div > p:nth-child(3) {
+    width: 40%;
+  }
+  .item2 > ul {
+    margin-top: 5.5vh;
+  }
+
+  .item2 > div > img {
+    width: 630px;
+    height: 1008px;
+    left: 52.5%;
+  }
+  /* -------------partners------------ */
+
+  .item3-box > ul > li {
+    width: 23%;
+  }
+  /* ------------------- */
+  .item4 > p > img {
+    width: 687px;
+    height: 596px;
+  }
+  .text-box > p:nth-child(2) {
+    width: 60%;
+    margin-top: 34vh;
+  }
+  .text-box > img:nth-child(1) {
+    width: 35px;
+    height: 30px;
+    margin-top: 33vh;
+  }
+  .text-box > img:nth-child(3) {
+    width: 35px;
+    height: 30px;
+    margin-left: -4%;
+    margin-top: 56vh;
+  }
+
+  .text-box > p:nth-child(2) > span {
+    /* margin-top: 5vh; */
+  }
+
+
+}
